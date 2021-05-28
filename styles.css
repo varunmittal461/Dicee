@@ -46,3 +46,25 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+@media (max-width:768px){
+  h1{
+    margin: auto;
+  }
+  p{
+    font-size: 4rem;
+  }
+  .dice{
+      display: inline;
+  }
+  .button-1 {
+    left: auto;
+  }
+  .btn-lg{
+    padding: .2rem 2rem;
+    font-size: 2.5rem;
+  }
+  footer{
+    width: 80%;
+    font-size: 3rem;
+  }
+}

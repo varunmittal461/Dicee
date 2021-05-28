@@ -46,7 +46,7 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
-@media (min-width:673px){
+@media (min-width:320px){
   h1{
     margin: auto;
   }
